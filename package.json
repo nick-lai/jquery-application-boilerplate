@@ -1,0 +1,24 @@
+{
+  "name": "jquery-application-boilerplate",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick-lai/jquery-application-boilerplate.git"
+  },
+  "keywords": [
+    "jquery-application-boilerplate"
+  ],
+  "author": "Nick Lai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nick-lai/jquery-application-boilerplate/issues"
+  },
+  "homepage": "https://github.com/nick-lai/jquery-application-boilerplate#readme",
+  "dependencies": {
+    "vite": "^4.3.9"
+  }
+}
